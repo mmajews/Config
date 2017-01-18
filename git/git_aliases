@@ -1,0 +1,11 @@
+alias.pr pull --rebase
+alias.p push
+alias.st stash
+alias.chnb checkout -b
+alias.ch checkout
+alias.ps push
+alias.sta stash apply
+alias.sts status
+alias.co checkout
+alias.cl clone
+alias.cm commit
